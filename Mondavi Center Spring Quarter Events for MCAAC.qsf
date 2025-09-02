@@ -1,0 +1,723 @@
+{
+    "SurveyEntry": {
+        "SurveyID": "SV_9KnnHSHqD3voJ3E",
+        "SurveyName": "Mondavi Center Spring Quarter Events for MCAAC",
+        "SurveyDescription": null,
+        "SurveyOwnerID": "UR_3WUHDMGK0A1YPvo",
+        "SurveyBrandID": "ucdavis",
+        "DivisionID": "DV_bCz0vLDEYcivdHv",
+        "SurveyLanguage": "EN",
+        "SurveyActiveResponseSet": "RS_bebPfeTMeXPODAi",
+        "SurveyStatus": "Active",
+        "SurveyStartDate": "0000-00-00 00:00:00",
+        "SurveyExpirationDate": "0000-00-00 00:00:00",
+        "SurveyCreationDate": "2022-03-01 08:18:25",
+        "CreatorID": "UR_3WUHDMGK0A1YPvo",
+        "LastModified": "2022-03-01 22:36:56",
+        "LastAccessed": "0000-00-00 00:00:00",
+        "LastActivated": "2022-03-01 08:32:49",
+        "Deleted": null
+    },
+    "SurveyElements": [
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "BL",
+            "PrimaryAttribute": "Survey Blocks",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "1": {
+                    "Type": "Trash",
+                    "Description": "Trash / Unused Questions",
+                    "ID": "BL_1",
+                    "BlockElements": []
+                },
+                "2": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "Block 2",
+                    "ID": "BL_2",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID0"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID1"
+                        }
+                    ]
+                },
+                "3": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "Block 3",
+                    "ID": "BL_3",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID2"
+                        }
+                    ]
+                },
+                "4": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "Block 4",
+                    "ID": "BL_4",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID3"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID4"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID5"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "FL",
+            "PrimaryAttribute": "Survey Flow",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "Type": "Root",
+                "FlowID": "FL_1",
+                "Flow": [
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_2",
+                        "FlowID": "FL_2",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_3",
+                        "FlowID": "FL_3",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_4",
+                        "FlowID": "FL_4",
+                        "Autofill": []
+                    }
+                ],
+                "Properties": {
+                    "Count": 10,
+                    "RemovedFieldsets": []
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "RS",
+            "PrimaryAttribute": "RS_bebPfeTMeXPODAi",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SO",
+            "PrimaryAttribute": "Survey Options",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "BackButton": "false",
+                "SaveAndContinue": "true",
+                "SurveyProtection": "PublicSurvey",
+                "BallotBoxStuffingPrevention": "false",
+                "NoIndex": "Yes",
+                "SecureResponseFiles": "true",
+                "SurveyExpiration": "None",
+                "SurveyTermination": "DisplayMessage",
+                "Header": "",
+                "Footer": "",
+                "ProgressBarDisplay": "None",
+                "PartialData": "+1 week",
+                "ValidationMessage": null,
+                "PreviousButton": " \u2190 ",
+                "NextButton": " \u2192 ",
+                "SurveyTitle": "Mondavi Center Spring Quarter Events for MCAAC",
+                "SkinLibrary": "ucdavis",
+                "SkinType": "templated",
+                "Skin": {
+                    "brandingId": "*6377849726",
+                    "templateId": "*base",
+                    "overrides": {
+                        "layout": {
+                            "spacing": 0
+                        },
+                        "questionText": {
+                            "size": "18px"
+                        },
+                        "answerText": {
+                            "size": "16px"
+                        }
+                    }
+                },
+                "NewScoring": 1,
+                "EOSMessage": "MS_bPDI4TK7DI3ICJo",
+                "ShowExportTags": "false",
+                "CollectGeoLocation": "false",
+                "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "PasswordProtection": "No",
+                "AnonymizeResponse": "No",
+                "RefererCheck": "No",
+                "UseCustomSurveyLinkCompletedMessage": null,
+                "SurveyLinkCompletedMessage": null,
+                "SurveyLinkCompletedMessageLibrary": null,
+                "ResponseSummary": "No",
+                "EOSMessageLibrary": "UR_3WUHDMGK0A1YPvo",
+                "EOSRedirectURL": "http://",
+                "EmailThankYou": "false",
+                "ThankYouEmailMessageLibrary": null,
+                "ThankYouEmailMessage": null,
+                "ValidateMessage": "false",
+                "ValidationMessageLibrary": null,
+                "InactiveSurvey": "DefaultMessage",
+                "PartialDeletion": null,
+                "PartialDataCloseAfter": "LastActivity",
+                "InactiveMessageLibrary": null,
+                "InactiveMessage": null,
+                "AvailableLanguages": {
+                    "EN": []
+                },
+                "ProtectSelectionIds": true,
+                "CustomStyles": [],
+                "SurveyName": "Mondavi Center Spring Quarter Events for MCAAC"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "TR",
+            "PrimaryAttribute": "TR_elXawPjSoXqEGmG",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "TriggerAction": "EmailMessage",
+                "Type": "OnSurveyComplete",
+                "ToEmail": "${q://QID4/ChoiceTextEntryValue}",
+                "FromName": "lbha@ucdavis.edu",
+                "FromEmail": "trigger@qemailserver.com",
+                "SendDate": "now",
+                "Subject": "Mondavi Center Spring Quarter Events for MCAAC Responses",
+                "Message": "",
+                "IncludeReport": true,
+                "UseFullText": true,
+                "ID": "TR_elXawPjSoXqEGmG"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SCO",
+            "PrimaryAttribute": "Scoring",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "ScoringCategories": [],
+                "ScoringCategoryGroups": [],
+                "ScoringSummaryCategory": null,
+                "ScoringSummaryAfterQuestions": 0,
+                "ScoringSummaryAfterSurvey": 0,
+                "DefaultScoringCategory": null,
+                "AutoScoringCategory": null
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "PROJ",
+            "PrimaryAttribute": "CORE",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": "1.1.0",
+            "Payload": {
+                "ProjectCategory": "CORE",
+                "SchemaVersion": "1.1.0"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "STAT",
+            "PrimaryAttribute": "Survey Statistics",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "MobileCompatible": true,
+                "ID": "Survey Statistics"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "QC",
+            "PrimaryAttribute": "Survey Question Count",
+            "SecondaryAttribute": "10",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID0",
+            "SecondaryAttribute": "In this survey, you will select Spring Quarter Mondavi Center events that you are interested in attending, the number of tickets requested, and a ranking prioritizing which events you would most like to attend.",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "<h4>In this survey, you will select Spring Quarter Mondavi Center events that you are interested in attending, the number of tickets requested, and a ranking prioritizing which events you would most like to attend.</h4>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q0",
+                "QuestionType": "DB",
+                "Selector": "TB",
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "In this survey, you will select Spring Quarter Mondavi Center events that you are interested in attending, the number of tickets requested, and a ranking prioritizing which events you would most like to attend.",
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID0"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID1",
+            "SecondaryAttribute": "Select which events you would like to attend by tapping the corresponding boxes. In the text fields of the selected events, enter the number of tickets you would like (<b>1-2 only</b>).",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select which events you would like to attend by tapping the corresponding boxes. In the text fields of the selected events, enter the number of tickets you would like (<b>1-2 only</b>).",
+                "DefaultChoices": false,
+                "DataExportTag": "Q1",
+                "QuestionType": "MC",
+                "Selector": "MACOL",
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "NumColumns": 2
+                },
+                "QuestionDescription": "Select which events you would like to attend by tapping the corresponding boxes. In the text fields of the selected events, enter the number of tickets you would like (<b>1-2 only</b>).",
+                "Choices": {
+                    "1": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/kinetech-arts' target = '_blank'>Kinetech Arts</a><br><br> 3/09/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "2": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/kinetech-arts' target = '_blank'>Kinetech Arts</a><br><br> 3/09/2022 | 8:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "3": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/kinetech-arts' target = '_blank'>Kinetech Arts</a><br><br> 3/10/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "4": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/kinetech-arts' target = '_blank'>Kinetech Arts</a><br><br> 3/10/2022 | 8:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "5": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/dresher-davel-invented-instrument-duo' target = '_blank'>Dresher Davel Invented Instrument Duo</a><br><br> 3/11/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "6": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/dresher-davel-invented-instrument-duo' target = '_blank'>Dresher Davel Invented Instrument Duo</a><br><br> 3/12/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "7": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/academy-st-martin-fields-joshua-bell' target = '_blank'>Academy of St Martin in the Fields with Joshua Bell</a><br><br> 3/12/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "8": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/ballet-folklorico-de-mexico-de-amalia-hernandez' target = '_blank'>Ballet Folklorico de Mexico</a><br><br> 3/18/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "9": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/matthew-whitaker-quintet' target = '_blank'>Matthew Whitaker Quartet</a><br><br> 3/25/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "10": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/dr-ibram-x-kendi' target = '_blank'>Dr. Ibram X. Kendi</a><br><br> 3/31/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "11": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/heather-mcghee' target = '_blank'>Heather McGhee</a><br><br> 4/03/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "12": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/ashwini-bhat-forrest-gander' target = '_blank'>Ashwini Bhatt & Forrest Gander</a><br><br> 4/15/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "13": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/christopher-taylor-piano' target = '_blank'>Christopher Taylor, Piano</a><br><br> 4/22/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "14": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/christopher-taylor-piano' target = '_blank'>Christopher Taylor, Piano</a><br><br> 4/24/2022 | 2:00 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "15": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/las-cafeteras' target = '_blank'>Las Cafeteras</a><br><br> 4/28/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "16": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/ashwini-bhat-forrest-gander' target = '_blank'>Ashwini Bhatt & Forrest Gander</a><br><br> 4/28/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "17": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/evening-david-sedaris' target = '_blank'>David Sedaris</a><br><br> 5/01/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "18": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/lara-downes-piano-clarice-assad-composer' target = '_blank'>Lara Downes</a><br><br> 5/06/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "19": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/alexander-string-quartet-robert-greenberg' target = '_blank'>Alexander String Quartet 3</a><br><br> 5/15/2022 | 2:00 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "20": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/grace-leslie' target = '_blank'>Grace Leslie</a><br><br> 5/19/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    },
+                    "21": {
+                        "Display": "<center><a href = 'https://www.mondaviarts.org/event/2021-22/says-showcase-hip-hop-spoken-word-poetry' target = '_blank'>SAYS Showcase: Hip Hope, Spoken Word & Poetry</a><br><br> 6/02/2022 | 7:30 PM </center>",
+                        "TextEntry": "true",
+                        "TextEntryValidation": "ValidNumber",
+                        "TextEntryForceResponse": true
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON",
+                        "ForceResponseType": "ON",
+                        "Type": "MinChoices",
+                        "MinChoices": "1",
+                        "MaxChoices": "21",
+                        "CustomValidation": null
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 22,
+                "NextAnswerId": 1,
+                "QuestionID": "QID1",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "DynamicChoicesData": [],
+                "SubSelector": "TX"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID2",
+            "SecondaryAttribute": "Rank your selected events in order of preference by dragging the choices to reorder their ranks.",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank your selected events in order of preference by dragging the choices to reorder their ranks.",
+                "DefaultChoices": {
+                    "x1": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/1}",
+                        "Value": "1"
+                    },
+                    "x2": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/2}",
+                        "Value": "2"
+                    },
+                    "x3": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/3}",
+                        "Value": "3"
+                    },
+                    "x4": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/4}",
+                        "Value": "4"
+                    },
+                    "x5": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/5}",
+                        "Value": "5"
+                    },
+                    "x6": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/6}",
+                        "Value": "6"
+                    },
+                    "x7": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/7}",
+                        "Value": "7"
+                    },
+                    "x8": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/8}",
+                        "Value": "8"
+                    },
+                    "x9": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/9}",
+                        "Value": "9"
+                    },
+                    "x10": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/10}",
+                        "Value": "10"
+                    },
+                    "x11": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/11}",
+                        "Value": "11"
+                    },
+                    "x12": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/12}",
+                        "Value": "12"
+                    },
+                    "x13": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/13}",
+                        "Value": "13"
+                    },
+                    "x14": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/14}",
+                        "Value": "14"
+                    },
+                    "x15": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/15}",
+                        "Value": "15"
+                    },
+                    "x16": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/16}",
+                        "Value": "16"
+                    },
+                    "x17": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/17}",
+                        "Value": "17"
+                    },
+                    "x18": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/18}",
+                        "Value": "18"
+                    },
+                    "x19": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/19}",
+                        "Value": "19"
+                    },
+                    "x20": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/20}",
+                        "Value": "20"
+                    },
+                    "x21": {
+                        "Text": "${q://QID1/ChoiceTextEntryValue/21}",
+                        "Value": "21"
+                    }
+                },
+                "DataExportTag": "Q2",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank your selected events in order of preference by dragging the choices to reorder their ranks.",
+                "Choices": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID2",
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID1/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "SubSelector": "TX",
+                "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function()\n{\n\t/*Place your JavaScript here to run when the page loads*/\n\n});\n\nQualtrics.SurveyEngine.addOnReady(function()\n{\n\t/*Place your JavaScript here to run when the page is fully displayed*/\n\tjQuery(\"#\"+this.questionId+\" .InputText\").hide();\n\n});\n\nQualtrics.SurveyEngine.addOnUnload(function()\n{\n\t/*Place your JavaScript here to run when the page is unloaded*/\n\n});"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID3",
+            "SecondaryAttribute": "Name",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "<h4>Name</h4>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q3",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Name",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON",
+                        "ForceResponseType": "ON",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID3"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID4",
+            "SecondaryAttribute": "Email",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "<h4>Email</h4>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q4",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Email",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON",
+                        "ForceResponseType": "ON",
+                        "Type": "ContentType",
+                        "MinChars": "1",
+                        "ContentType": "ValidEmail",
+                        "ValidDateType": "DateWithFormat",
+                        "ValidPhoneType": "ValidUSPhone",
+                        "ValidZipType": "ValidUSZip",
+                        "ValidNumber": {
+                            "Min": "",
+                            "Max": "",
+                            "NumDecimals": ""
+                        }
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID4"
+            }
+        },
+        {
+            "SurveyID": "SV_9KnnHSHqD3voJ3E",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID5",
+            "SecondaryAttribute": "Accessibility Needs",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "<h4>Accessibility Needs</h4>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q5",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Accessibility Needs",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "ForceResponseType": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID5"
+            }
+        }
+    ]
+}
